@@ -1,9 +1,6 @@
 # manisha-sample
-bjhguyjhkjhk
 
-rregre
-
-hgfhj
+sample readme file
 
 # tfhgvn
 
